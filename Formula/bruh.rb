@@ -1,4 +1,4 @@
-class bruh < Formula
+class Bruh < Formula
   desc "it really hits hard"
   homepage "github.com/Croldfish/bruh"
   url "https://github.com/Croldfish/bruh/releases/latest/download/bruh.tar.gz"
